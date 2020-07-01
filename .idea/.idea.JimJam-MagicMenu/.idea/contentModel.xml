@@ -7,9 +7,11 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="MagicMenuCamera" t="Include">
+          <e p="Extras" t="Include">
+            <e p="MagicMenu_DefaultFlagSelector.cs" t="Include" />
+          </e>
           <e p="Scripts" t="Include">
             <e p="MagicMenu_CameraMarker.cs" t="Include" />
-            <e p="MagicMenu_DefaultFlagSelector.cs" t="Include" />
             <e p="MagicMenu_Editors.cs" t="Include" />
             <e p="MagicMenu_LCA.cs" t="Include" />
             <e p="MagicMenu_RenderFader.cs" t="Include" />
